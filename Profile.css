@@ -1,0 +1,35 @@
+nav a {
+    display: inline-block;
+    cursor: wait;
+    text-align: center;
+    word-spacing: 30px;
+    text-decoration: none;
+    width: 10%;
+}
+
+.words {
+    display: inline-block;
+    width: 45%;
+    
+}
+.main-h1 {
+    width: 30%;
+    display: inline-block;
+    padding: 0 40px;
+    text-align: center;
+}
+.navigator {
+    width: 60%;
+    display:inline-block;
+    text-align: right;
+    font-weight: bold;
+    font-family: Georgia;
+    word-spacing: 20px;
+}
+.block img {
+    float: left;
+    border-radius: 60%;
+    width: 45%;
+    height: 50%;
+    margin: 20px 40px;
+}
